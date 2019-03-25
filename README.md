@@ -4,4 +4,4 @@
 
 # Modellus
 
-[Modelus](modellus/README.md)
+[Modelus](basics/modellus/README.md)
