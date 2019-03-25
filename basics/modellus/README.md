@@ -8,3 +8,8 @@ Software educacional para a construção e apresentação visual de modelos mate
 * [Windows 32 bits](https://bitbucket.org/dukke/modellus-x-public-files/downloads/ModellusX_windows_0_4_05.exe)
 * [Linux](https://bitbucket.org/dukke/modellus-x-public-files/downloads/ModellusX_unix_0_4_05.sh)
 * [Mac](https://bitbucket.org/dukke/modellus-x-public-files/downloads/ModellusX_macos_0_4_05.dmg)
+
+# Movimento Retilíneo Uniforme (MRU)
+
+* [Dinossauro](mru/mru01-dino.modellus)
+* [Dinossauro e Girafa](mru/mru02-dino-girafa.modellus)
